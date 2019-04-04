@@ -1,0 +1,128 @@
+[
+
+    {
+        "name": "The legend of Zelda",
+        "price": 12,
+        "country": "Japan"
+    },
+    {
+        "name": "World of WarCraft",
+        "price": 12,
+        "country": "Russia"
+    },
+    {
+        "name": "Super Smash Bros Ultimate",
+        "price": 12,
+        "country": "Italy"
+    },
+    {
+        "name": "Mortal Kombat 11",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Sonic the Hedgehog",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Princess Power",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Dance Revolution",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Tetris",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "mario gocart",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Borderlands",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "The Division",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Tom Clancy's The Division 2",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Minecraft",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Nintendo Yoshi Series",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Assassin's Creed",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Spore",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Fortnite",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Marvel's Spider-man",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Super Mario Odyssey",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Spyro Reignited",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Persona 5",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Chrono Trigger",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Red Dead Redemption",
+        "price": 12,
+        "Country": "Japan"
+    },
+    {
+        "name": "Resident Evil 2",
+        "price": 12,
+        "Country": "Japan"
+    }
+]
